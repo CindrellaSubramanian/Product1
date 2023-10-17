@@ -1,0 +1,18 @@
+{
+    "Category created successfully": "Category created successfully",
+    "Internal server error": "Internal server error",
+    "Success":"Success",
+    "Category not found":"Category not found",
+    "Category retrieved successfully":"Category retrieved successfully",
+    "Category updated successfully":"Category updated successfully",
+    "Invalid status value":"Invalid status value",
+    "No categories found in the file":"No categories found in the file",
+     "Categories uploaded successfully":"Categories uploaded successfully",
+     "Coverage created successfully":"Coverage created successfully",
+     "Coverages retrieved successfully":"Coverages retrieved successfully",
+     "Coverage not found":"Coverage not found",
+     "Coverage updated successfully":"Coverage updated successfully",
+     "Coverage deleted successfully":"Coverage deleted successfully",
+     "Coverage retrieved successfully":"Coverage retrieved successfully"
+}
+    
